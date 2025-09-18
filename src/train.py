@@ -17,4 +17,4 @@ def main():
     print("Train OK. Accuracy:", acc)
     
 if __name__ == "__main__":
-main()
+    main()
